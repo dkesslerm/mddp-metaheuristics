@@ -1,0 +1,351 @@
+Algorithm	File	Fitness	Time(s)
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_1_n25_m2	0	0.699505
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_2_n25_m2	0	0.697877
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_3_n25_m2	0	0.758829
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_4_n25_m2	0	0.703403
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_5_n25_m2	0	0.712797
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_6_n25_m7	23.9807	0.841349
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_7_n25_m7	28.1489	0.783801
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_8_n25_m7	25.4796	0.874946
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_9_n25_m7	34.4656	0.778009
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_10_n25_m7	31.1221	0.800011
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_11_n50_m5	13.8818	1.09503
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_12_n50_m5	14.3203	1.05529
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_13_n50_m5	11.4137	1.04496
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_14_n50_m5	13.3536	1.03316
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_15_n50_m5	10.9285	1.04314
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_16_n50_m15	94.4565	1.35801
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_17_n50_m15	81.6161	1.36041
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_18_n50_m15	95.3722	1.24568
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_19_n50_m15	85.4967	1.19722
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_20_n50_m15	113.589	1.20683
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_21_n100_m10	31.4542	1.57618
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_22_n100_m10	34.577	1.56842
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_23_n100_m10	40.1668	1.61563
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_24_n100_m10	33.1477	1.60752
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_25_n100_m10	35.6832	1.62033
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_26_n100_m30	354.4	2.45706
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_27_n100_m30	300.573	2.4609
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_28_n100_m30	262.979	2.7011
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_29_n100_m30	263.31	2.61675
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_30_n100_m30	344.033	2.24337
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_31_n125_m12	41.8432	2.18287
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_32_n125_m12	45.2739	2.0784
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_33_n125_m12	51.1408	1.85793
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_34_n125_m12	47.1817	1.95363
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_35_n125_m12	39.6919	2.00705
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_36_n125_m37	319.907	2.78222
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_37_n125_m37	454.09	2.78312
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_38_n125_m37	483.458	2.80613
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_39_n125_m37	420.994	2.76705
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_40_n125_m37	459.274	2.72736
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_41_n150_m15	61.4949	2.13316
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_42_n150_m15	63.377	2.14331
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_43_n150_m15	75.0448	2.09644
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_44_n150_m15	54.6269	2.14141
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_45_n150_m15	62.8776	2.15243
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_46_n150_m45	587.441	3.44691
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_47_n150_m45	522.73	3.45213
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_48_n150_m45	492.797	3.42587
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_49_n150_m45	493.093	3.4592
+GenerationalGeneticAlgorithm (Uniform crossover)	GKD-b_50_n150_m45	549.852	3.42939
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_1_n25_m2	0	0.648559
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_2_n25_m2	0	0.673302
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_3_n25_m2	0	0.657954
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_4_n25_m2	0	0.651195
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_5_n25_m2	0	0.661683
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_6_n25_m7	27.6569	0.716782
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_7_n25_m7	27.8581	0.699796
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_8_n25_m7	34.9109	0.69306
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_9_n25_m7	30.8153	0.686977
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_10_n25_m7	35.8736	0.695267
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_11_n50_m5	10.3051	0.86811
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_12_n50_m5	8.84947	0.867834
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_13_n50_m5	11.2554	0.865534
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_14_n50_m5	11.3862	0.879002
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_15_n50_m5	11.9554	0.86563
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_16_n50_m15	96.1437	1.06933
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_17_n50_m15	91.9444	1.06814
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_18_n50_m15	97.5874	1.06959
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_19_n50_m15	105.5	1.06058
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_20_n50_m15	113.117	1.08716
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_21_n100_m10	32.8054	1.3628
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_22_n100_m10	36.5814	1.35626
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_23_n100_m10	35.5102	1.36554
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_24_n100_m10	35.6575	1.38175
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_25_n100_m10	32.4914	1.35528
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_26_n100_m30	343.63	1.98595
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_27_n100_m30	302.637	1.94635
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_28_n100_m30	295.395	1.96568
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_29_n100_m30	293.85	1.96671
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_30_n100_m30	327.904	1.94944
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_31_n125_m12	41.3371	1.60672
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_32_n125_m12	41.3173	1.57359
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_33_n125_m12	58.8614	1.60713
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_34_n125_m12	56.4781	1.57372
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_35_n125_m12	43.208	1.57966
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_36_n125_m37	358.259	2.47034
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_37_n125_m37	416.65	2.49668
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_38_n125_m37	491.543	2.48521
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_39_n125_m37	398.166	2.46403
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_40_n125_m37	415.156	2.4924
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_41_n150_m15	51.4198	1.87091
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_42_n150_m15	73.4639	1.85108
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_43_n150_m15	72.8902	1.88639
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_44_n150_m15	60.1649	1.89842
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_45_n150_m15	66.9063	1.8624
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_46_n150_m45	569.321	3.11934
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_47_n150_m45	482.661	3.13827
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_48_n150_m45	488.304	3.13422
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_49_n150_m45	501.352	3.14165
+GenerationalGeneticAlgorithm (Position crossover)	GKD-b_50_n150_m45	576.326	3.13272
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_1_n25_m2	0	0.871931
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_2_n25_m2	0	0.872095
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_3_n25_m2	0	0.868944
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_4_n25_m2	0	0.873593
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_5_n25_m2	0	0.869279
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_6_n25_m7	31.8699	0.957479
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_7_n25_m7	36.0716	0.95205
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_8_n25_m7	27.3517	0.958038
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_9_n25_m7	37.3174	0.959477
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_10_n25_m7	29.7516	0.955456
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_11_n50_m5	11.5512	1.25366
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_12_n50_m5	12.1893	1.25499
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_13_n50_m5	17.3034	1.25058
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_14_n50_m5	9.95157	1.25216
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_15_n50_m5	11.9825	1.26181
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_16_n50_m15	84.1563	1.49313
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_17_n50_m15	79.8392	1.48849
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_18_n50_m15	101.537	1.48408
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_19_n50_m15	93.7831	1.48452
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_20_n50_m15	106.092	1.48916
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_21_n100_m10	40.7876	2.02551
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_22_n100_m10	41.0624	2.03953
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_23_n100_m10	33.05	2.01731
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_24_n100_m10	37.6072	2.21973
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_25_n100_m10	44.5581	2.03338
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_26_n100_m30	293.93	2.68784
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_27_n100_m30	356.423	2.68663
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_28_n100_m30	310.764	2.67503
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_29_n100_m30	351.442	2.68206
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_30_n100_m30	315.048	2.68505
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_31_n125_m12	43.7204	2.39678
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_32_n125_m12	43.0115	2.4062
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_33_n125_m12	53.5204	2.38919
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_34_n125_m12	47.7372	2.3919
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_35_n125_m12	46.9652	2.40535
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_36_n125_m37	309.539	3.37633
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_37_n125_m37	409.53	3.37048
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_38_n125_m37	387.378	3.36563
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_39_n125_m37	377.668	3.38267
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_40_n125_m37	472.764	3.37604
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_41_n150_m15	57.2323	2.79628
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_42_n150_m15	76.6592	2.79428
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_43_n150_m15	71.8929	2.78486
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_44_n150_m15	55.0137	2.80119
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_45_n150_m15	62.7751	2.80497
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_46_n150_m45	601.304	4.1623
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_47_n150_m45	517.082	4.18008
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_48_n150_m45	506.812	4.14715
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_49_n150_m45	544.228	4.18777
+SteadyStateGeneticAlgorithm (Uniform crossover)	GKD-b_50_n150_m45	533.342	4.14159
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_1_n25_m2	0	0.870044
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_2_n25_m2	0	0.866321
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_3_n25_m2	0	0.869009
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_4_n25_m2	0	0.863383
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_5_n25_m2	0	0.86284
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_6_n25_m7	25.2697	0.886701
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_7_n25_m7	30.8945	0.889033
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_8_n25_m7	32.8249	0.893676
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_9_n25_m7	34.5863	0.902861
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_10_n25_m7	35.1721	0.893306
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_11_n50_m5	14.9328	1.12555
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_12_n50_m5	14.1356	1.11829
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_13_n50_m5	14.5355	1.11663
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_14_n50_m5	13.4901	1.12028
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_15_n50_m5	11.7569	1.11956
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_16_n50_m15	79.1824	1.34414
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_17_n50_m15	107.54	1.34813
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_18_n50_m15	93.9143	1.34898
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_19_n50_m15	87.5556	1.34971
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_20_n50_m15	91.7597	1.35445
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_21_n100_m10	37.6032	1.74925
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_22_n100_m10	36.1987	1.75316
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_23_n100_m10	36.262	1.74986
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_24_n100_m10	33.009	1.75121
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_25_n100_m10	33.9532	1.75509
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_26_n100_m30	352.687	2.40659
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_27_n100_m30	323.774	2.39658
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_28_n100_m30	302.919	2.40496
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_29_n100_m30	286.56	2.41005
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_30_n100_m30	358.144	2.39884
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_31_n125_m12	39.8895	2.05145
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_32_n125_m12	44.6389	2.05766
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_33_n125_m12	39.319	2.06531
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_34_n125_m12	42.245	2.06232
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_35_n125_m12	61.5803	2.06224
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_36_n125_m37	367.064	3.00942
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_37_n125_m37	408.711	3.01643
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_38_n125_m37	407.365	3.02942
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_39_n125_m37	401.861	3.01606
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_40_n125_m37	374.649	3.01428
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_41_n150_m15	58.8353	2.3915
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_42_n150_m15	71.8165	2.38072
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_43_n150_m15	75.4119	2.38755
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_44_n150_m15	51.7806	2.38169
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_45_n150_m15	64.5724	2.39481
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_46_n150_m45	567.283	3.72984
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_47_n150_m45	487.066	3.73652
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_48_n150_m45	472.173	3.70602
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_49_n150_m45	558.238	3.70454
+SteadyStateGeneticAlgorithm (Position crossover)	GKD-b_50_n150_m45	633.354	3.72334
+MemeticAlgorithm (ALL)	GKD-b_1_n25_m2	0	0.163508
+MemeticAlgorithm (ALL)	GKD-b_2_n25_m2	0	0.163517
+MemeticAlgorithm (ALL)	GKD-b_3_n25_m2	0	0.165475
+MemeticAlgorithm (ALL)	GKD-b_4_n25_m2	0	0.16462
+MemeticAlgorithm (ALL)	GKD-b_5_n25_m2	0	0.161113
+MemeticAlgorithm (ALL)	GKD-b_6_n25_m7	14.5628	0.108185
+MemeticAlgorithm (ALL)	GKD-b_7_n25_m7	15.7306	0.114191
+MemeticAlgorithm (ALL)	GKD-b_8_n25_m7	16.761	0.120086
+MemeticAlgorithm (ALL)	GKD-b_9_n25_m7	18.6582	0.111897
+MemeticAlgorithm (ALL)	GKD-b_10_n25_m7	25.0488	0.10923
+MemeticAlgorithm (ALL)	GKD-b_11_n50_m5	5.34504	0.0950232
+MemeticAlgorithm (ALL)	GKD-b_12_n50_m5	5.83918	0.0962214
+MemeticAlgorithm (ALL)	GKD-b_13_n50_m5	5.65411	0.09492
+MemeticAlgorithm (ALL)	GKD-b_14_n50_m5	4.54222	0.096327
+MemeticAlgorithm (ALL)	GKD-b_15_n50_m5	5.21263	0.0972835
+MemeticAlgorithm (ALL)	GKD-b_16_n50_m15	57.6693	0.151552
+MemeticAlgorithm (ALL)	GKD-b_17_n50_m15	63.9445	0.153751
+MemeticAlgorithm (ALL)	GKD-b_18_n50_m15	61.1873	0.14757
+MemeticAlgorithm (ALL)	GKD-b_19_n50_m15	68.0882	0.141481
+MemeticAlgorithm (ALL)	GKD-b_20_n50_m15	65.3702	0.145933
+MemeticAlgorithm (ALL)	GKD-b_21_n100_m10	27.1334	0.166812
+MemeticAlgorithm (ALL)	GKD-b_22_n100_m10	26.7463	0.157742
+MemeticAlgorithm (ALL)	GKD-b_23_n100_m10	26.82	0.173743
+MemeticAlgorithm (ALL)	GKD-b_24_n100_m10	27.2073	0.16147
+MemeticAlgorithm (ALL)	GKD-b_25_n100_m10	26.1715	0.160224
+MemeticAlgorithm (ALL)	GKD-b_26_n100_m30	235.464	0.476348
+MemeticAlgorithm (ALL)	GKD-b_27_n100_m30	234.703	0.487714
+MemeticAlgorithm (ALL)	GKD-b_28_n100_m30	214.274	0.519299
+MemeticAlgorithm (ALL)	GKD-b_29_n100_m30	200.624	0.476978
+MemeticAlgorithm (ALL)	GKD-b_30_n100_m30	197.982	0.473256
+MemeticAlgorithm (ALL)	GKD-b_31_n125_m12	28.4877	0.246329
+MemeticAlgorithm (ALL)	GKD-b_32_n125_m12	33.9679	0.216517
+MemeticAlgorithm (ALL)	GKD-b_33_n125_m12	36.0611	0.223829
+MemeticAlgorithm (ALL)	GKD-b_34_n125_m12	36.1081	0.233679
+MemeticAlgorithm (ALL)	GKD-b_35_n125_m12	32.5842	0.210815
+MemeticAlgorithm (ALL)	GKD-b_36_n125_m37	248.013	0.682622
+MemeticAlgorithm (ALL)	GKD-b_37_n125_m37	343.196	0.758865
+MemeticAlgorithm (ALL)	GKD-b_38_n125_m37	327.284	0.759877
+MemeticAlgorithm (ALL)	GKD-b_39_n125_m37	266.065	0.758802
+MemeticAlgorithm (ALL)	GKD-b_40_n125_m37	325.345	0.693683
+MemeticAlgorithm (ALL)	GKD-b_41_n150_m15	47.7555	0.299012
+MemeticAlgorithm (ALL)	GKD-b_42_n150_m15	51.323	0.302158
+MemeticAlgorithm (ALL)	GKD-b_43_n150_m15	53.444	0.311008
+MemeticAlgorithm (ALL)	GKD-b_44_n150_m15	44.0358	0.298064
+MemeticAlgorithm (ALL)	GKD-b_45_n150_m15	44.5388	0.275445
+MemeticAlgorithm (ALL)	GKD-b_46_n150_m45	435.188	1.07318
+MemeticAlgorithm (ALL)	GKD-b_47_n150_m45	403.066	1.06535
+MemeticAlgorithm (ALL)	GKD-b_48_n150_m45	362.124	1.01286
+MemeticAlgorithm (ALL)	GKD-b_49_n150_m45	445.497	1.05567
+MemeticAlgorithm (ALL)	GKD-b_50_n150_m45	433.644	1.04337
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_1_n25_m2	0	0.472092
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_2_n25_m2	0	0.466225
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_3_n25_m2	0	0.466855
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_4_n25_m2	0	0.467807
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_5_n25_m2	0	0.472214
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_6_n25_m7	15.001	0.351449
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_7_n25_m7	16.3979	0.353058
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_8_n25_m7	18.7678	0.355079
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_9_n25_m7	21.7656	0.351724
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_10_n25_m7	25.0488	0.351488
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_11_n50_m5	4.94697	0.322264
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_12_n50_m5	6.47755	0.322387
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_13_n50_m5	6.47802	0.324593
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_14_n50_m5	6.646	0.325017
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_15_n50_m5	7.33462	0.321441
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_16_n50_m15	54.9933	0.310351
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_17_n50_m15	74.3805	0.313018
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_18_n50_m15	71.0242	0.308472
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_19_n50_m15	66.4163	0.309684
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_20_n50_m15	71.9817	0.308704
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_21_n100_m10	31.6963	0.383918
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_22_n100_m10	27.6024	0.390614
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_23_n100_m10	28.1004	0.384559
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_24_n100_m10	28.177	0.38414
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_25_n100_m10	31.3288	0.386108
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_26_n100_m30	256.289	0.623556
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_27_n100_m30	206.151	0.629395
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_28_n100_m30	258.594	0.618217
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_29_n100_m30	202.34	0.623887
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_30_n100_m30	227.538	0.620717
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_31_n125_m12	23.6758	0.465895
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_32_n125_m12	36.2178	0.465809
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_33_n125_m12	37.5132	0.465006
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_34_n125_m12	39.1013	0.466739
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_35_n125_m12	34.8661	0.464275
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_36_n125_m37	273.848	0.809888
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_37_n125_m37	345.432	0.831084
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_38_n125_m37	344.326	0.806774
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_39_n125_m37	289.61	0.810309
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_40_n125_m37	323.061	0.786324
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_41_n150_m15	50.0118	0.545781
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_42_n150_m15	50.8889	0.549575
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_43_n150_m15	52.8127	0.555676
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_44_n150_m15	48.2788	0.552979
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_45_n150_m15	52.4011	0.561202
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_46_n150_m45	459.267	1.05687
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_47_n150_m45	396.352	1.06224
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_48_n150_m45	396.123	1.03641
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_49_n150_m45	460.539	1.04318
+MemeticAlgorithm (SOME_RANDOM)	GKD-b_50_n150_m45	407.509	1.04244
+MemeticAlgorithm (SOME_BEST)	GKD-b_1_n25_m2	0	0.16102
+MemeticAlgorithm (SOME_BEST)	GKD-b_2_n25_m2	0	0.159607
+MemeticAlgorithm (SOME_BEST)	GKD-b_3_n25_m2	0	0.159184
+MemeticAlgorithm (SOME_BEST)	GKD-b_4_n25_m2	0	0.158861
+MemeticAlgorithm (SOME_BEST)	GKD-b_5_n25_m2	0	0.159428
+MemeticAlgorithm (SOME_BEST)	GKD-b_6_n25_m7	13.0225	0.106393
+MemeticAlgorithm (SOME_BEST)	GKD-b_7_n25_m7	15.7869	0.108097
+MemeticAlgorithm (SOME_BEST)	GKD-b_8_n25_m7	17.6006	0.108999
+MemeticAlgorithm (SOME_BEST)	GKD-b_9_n25_m7	17.6536	0.107085
+MemeticAlgorithm (SOME_BEST)	GKD-b_10_n25_m7	25.2613	0.109326
+MemeticAlgorithm (SOME_BEST)	GKD-b_11_n50_m5	4.90242	0.0937834
+MemeticAlgorithm (SOME_BEST)	GKD-b_12_n50_m5	4.18182	0.0948159
+MemeticAlgorithm (SOME_BEST)	GKD-b_13_n50_m5	5.08149	0.0904654
+MemeticAlgorithm (SOME_BEST)	GKD-b_14_n50_m5	6.02003	0.0924237
+MemeticAlgorithm (SOME_BEST)	GKD-b_15_n50_m5	5.10974	0.0897776
+MemeticAlgorithm (SOME_BEST)	GKD-b_16_n50_m15	60.782	0.139427
+MemeticAlgorithm (SOME_BEST)	GKD-b_17_n50_m15	73.4011	0.147583
+MemeticAlgorithm (SOME_BEST)	GKD-b_18_n50_m15	65.442	0.137352
+MemeticAlgorithm (SOME_BEST)	GKD-b_19_n50_m15	63.6268	0.137354
+MemeticAlgorithm (SOME_BEST)	GKD-b_20_n50_m15	69.5645	0.138534
+MemeticAlgorithm (SOME_BEST)	GKD-b_21_n100_m10	25.7933	0.152741
+MemeticAlgorithm (SOME_BEST)	GKD-b_22_n100_m10	24.3622	0.147801
+MemeticAlgorithm (SOME_BEST)	GKD-b_23_n100_m10	24.1405	0.156563
+MemeticAlgorithm (SOME_BEST)	GKD-b_24_n100_m10	24.4893	0.144175
+MemeticAlgorithm (SOME_BEST)	GKD-b_25_n100_m10	26.7979	0.151678
+MemeticAlgorithm (SOME_BEST)	GKD-b_26_n100_m30	240.176	0.407902
+MemeticAlgorithm (SOME_BEST)	GKD-b_27_n100_m30	232.995	0.431053
+MemeticAlgorithm (SOME_BEST)	GKD-b_28_n100_m30	191.509	0.451228
+MemeticAlgorithm (SOME_BEST)	GKD-b_29_n100_m30	193.83	0.422611
+MemeticAlgorithm (SOME_BEST)	GKD-b_30_n100_m30	203.21	0.414201
+MemeticAlgorithm (SOME_BEST)	GKD-b_31_n125_m12	25.1831	0.222467
+MemeticAlgorithm (SOME_BEST)	GKD-b_32_n125_m12	33.6197	0.195125
+MemeticAlgorithm (SOME_BEST)	GKD-b_33_n125_m12	28.9562	0.202295
+MemeticAlgorithm (SOME_BEST)	GKD-b_34_n125_m12	39.5452	0.205601
+MemeticAlgorithm (SOME_BEST)	GKD-b_35_n125_m12	31.9777	0.193827
+MemeticAlgorithm (SOME_BEST)	GKD-b_36_n125_m37	261.151	0.585277
+MemeticAlgorithm (SOME_BEST)	GKD-b_37_n125_m37	321.017	0.724347
+MemeticAlgorithm (SOME_BEST)	GKD-b_38_n125_m37	351.281	0.652449
+MemeticAlgorithm (SOME_BEST)	GKD-b_39_n125_m37	265.894	0.702652
+MemeticAlgorithm (SOME_BEST)	GKD-b_40_n125_m37	311.754	0.613923
+MemeticAlgorithm (SOME_BEST)	GKD-b_41_n150_m15	43.0689	0.282973
+MemeticAlgorithm (SOME_BEST)	GKD-b_42_n150_m15	51.1598	0.289477
+MemeticAlgorithm (SOME_BEST)	GKD-b_43_n150_m15	43.6805	0.298084
+MemeticAlgorithm (SOME_BEST)	GKD-b_44_n150_m15	46.3778	0.282024
+MemeticAlgorithm (SOME_BEST)	GKD-b_45_n150_m15	49.0789	0.267199
+MemeticAlgorithm (SOME_BEST)	GKD-b_46_n150_m45	429.883	0.992389
+MemeticAlgorithm (SOME_BEST)	GKD-b_47_n150_m45	395.135	1.02595
+MemeticAlgorithm (SOME_BEST)	GKD-b_48_n150_m45	342.394	0.950215
+MemeticAlgorithm (SOME_BEST)	GKD-b_49_n150_m45	442.654	0.947828
+MemeticAlgorithm (SOME_BEST)	GKD-b_50_n150_m45	406.909	0.979683
