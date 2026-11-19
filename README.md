@@ -1,110 +1,80 @@
 # Metaheuristics – Coursework Portfolio
 
-This repository contains implementations of several metaheuristic algorithms developed as part of the *Metaheuristics* course at **Universidad de Granada**.  
-The project addresses the **Minimum Differential Dispersion Problem (MDDP)** across three structured assignments.
+C++ implementations of several metaheuristic algorithms for the **Minimum Differential Dispersion Problem (MDDP)**, developed across three assignments of the *Metaheuristics* course at **Universidad de Granada** (2024/2025).
 
-> Note: This work was completed for academic purposes. The structure and problem specifications were provided by the course instructors. Assignment briefs (*guiones de prácticas*) are included for context and remain in their original Spanish form. If possible, read them - it is the best way to understand the problem, results and its analysis.
+> Note: The problem specification, project template and evaluation criteria were provided by the course instructors. The algorithm implementations, experiments and reports are my own work. The reports (`KesslerMartínezDavid_P*MH.pdf`, in Spanish) contain the full design description and results analysis for each assignment.
 
 ---
 
+## The Problem
+
+Given `n` elements with pairwise distances, select a subset of exactly `m` elements that minimises the difference between the largest and smallest aggregate dispersion within the subset (each element's dispersion is the sum of its distances to the other selected elements). The problem is NP-hard.
+
 ## Structure
 
-- `softwareP1/` – First assignment  
-  Implements:
-  - Random Search  
-  - Greedy Search  
-  - Random Local Search  
-  - Heuristic Local Search  
+- `softwareP1/` – First assignment
+  - Random Search
+  - Greedy Search
+  - Random Local Search
+  - Heuristic Local Search
 
-- `softwareP2/` – Second assignment  
-  Implements:
-  - Multiple variants of Genetic and Memetic Algorithms  
+- `softwareP2/` – Second assignment
+  - Generational and steady-state Genetic Algorithms, each with two crossover operators (uniform with repair, and position-based)
+  - Memetic Algorithms with three hybridisation schemes: local search on the whole population, on 10% of it chosen at random, and on the best 10%
 
-- `softwareP3/` – Third assignment  
-  Implements:
-  - Basic Multi-Search  
-  - Iterated Local Search  
-  - Simulated Annealing  
-  - GRASP  
+- `softwareP3/` – Third assignment
+  - Basic Multi-Start Search
+  - Iterated Local Search
+  - Simulated Annealing
+  - GRASP
 
-- `KesslerMartínezDavid_P1MH.pdf` – Assignment brief for P1 *(in Spanish)*  
-- `KesslerMartínezDavid_P2MH.pdf` – Assignment brief for P2 *(in Spanish)*  
-- `KesslerMartínezDavid_P3MH.pdf` – Assignment brief for P3 *(in Spanish)*  
+- `KesslerMartínezDavid_P1MH.pdf`, `KesslerMartínezDavid_P2MH.pdf`, `KesslerMartínezDavid_P3MH.pdf` – My reports for each assignment *(in Spanish)*
+
+---
+
+## Experimental Setup
+
+- **50 benchmark instances** (GKD-b), with `n` ∈ {25, 50, 100, 125, 150} (10 instances per size)
+- Each algorithm run with **5 seeds** per instance: `{42, 0, 31415, 123, 2025}`
+- Metrics: average deviation (%) from the best-known solution and execution time
+
+## Key Result (Assignment 2)
+
+The assignment asked for memetic algorithms built only on the crossover that performed best in the generational GA (uniform crossover). Because both crossovers performed almost identically in the GAs and the position-based one was faster, I also built the memetic variants with **position-based crossover** as an extra experiment.
+
+Contrary to what the GA results suggested, the position-based memetics outperformed the uniform ones **at every problem size**. The best algorithm of the assignment was **AM-(10, 0.1best) with position-based crossover** (34.25 on the quality metric, 0.311 s on average), while the genetic algorithms needed more than 1.5 s on average and did not beat heuristic local search.
+
+My hypothesis, stated in the report but not tested experimentally: the near-random repair step of uniform crossover undoes part of the bit-by-bit improvements made by local search, while position-based crossover needs no repair and disturbs those solutions less.
 
 ---
 
 ## How to Run
 
-To compile and run the project, use the provided `Makefile`, which comes from the course template.  
-The only modification made was to the `CMakeLists.txt` file — a line was added to enable compiling `savetofile.cpp` independently of `main.cpp`.
+Use the provided `Makefile`, which comes from the course template. The only modification is in `CMakeLists.txt`, where a line was added so that `savetofile.cpp` compiles independently of `main.cpp`.
 
-### Compilation Steps
-
-From the root directory of any of the `softwareP1/`, `softwareP2/`, or `softwareP3/` folders:
+From any of the `softwareP1/`, `softwareP2/` or `softwareP3/` folders:
 
 ```bash
 cmake .
 make
 ```
 
-This generates two executables:
-- `main` – the primary entry point for running algorithms on datasets.
-- `savetofile` – a utility to export results to a text file.
-
-### Running the Executables
+This produces two executables:
+- `main` – runs the algorithms on a dataset
+- `savetofile` – runs the experiments and writes the results to a text file
 
 ```bash
-./main data/<filename> <optional-seed>
-./savetofile
+./main data/GKD-b_11_n50_m5.txt          # uses the default seed set
+./main data/GKD-b_11_n50_m5.txt 42       # uses only seed 42
+./savetofile                              # writes results to file
 ```
-
-- The `main` executable accepts two arguments:
-  1. The path to the dataset file (located in the `data/` folder).
-  2. *(Optional)* A numeric seed for random number generation.
-
-If no seed is provided, the program defaults to a predefined list of five seeds:  
-`{42, 0, 31415, 123, 2025}`.
-
-### Example Usage
-
-```bash
-./main data/GKD_b_7_n25_m7.txt          # uses default seed set
-./main data/GKD_b_7_n25_m7.txt 42       # uses only seed 42
-./savetofile                            # outputs results to file
-```
-
----
-
-## Techniques Used
-
-Across the assignments, the following metaheuristics were explored and implemented:
-
-- Randomized Search Strategies  
-- Local Search Variants  
-- Genetic Algorithms  
-- Memetic Algorithms  
-- Simulated Annealing  
-- Iterated Local Search  
-- GRASP  
-- Multi-start Strategies  
-
-Each algorithm was tailored for the MDDP and tested on benchmark instances.
-
----
-
-## Disclaimer
-
-- The **assignment structure** and **evaluation criteria** were provided by the instructors of the *Metaheuristics* course.  
-- The **problem and algorithm implementations, experimentation, and reports** in this repository are original student work, unless otherwise stated.
 
 ---
 
 ## Contact
 
-For inquiries or references, contact: **[dkesslerm@gmail.com]**
-
----
+dkesslerm@gmail.com
 
 ## License
 
-This project is licensed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
+MIT License. See [`softwareP1/LICENSE`](softwareP1/LICENSE).
